@@ -1,12 +1,27 @@
 <div align="center">
 
-<!-- Animated Header - Rosa Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:FF8C42&height=200&section=header&text=Sara%20Rosati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Passionate%20Learner&descSize=18&descAlignY=55&descColor=ffffff"/>
+<!-- Custom Colorful Header -->
+<div align="center">
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB6D9&center=true&vCenter=true&random=false&width=600&lines=Building+beautiful+and+functional+web+experiences;Full-Stack+Developer+%40+Code+Institute;From+Italian+Kitchens+to+Web+Development;Based+in+Z%C3%BCrich%2C+Switzerland" alt="Typing SVG" />
-</a>
+<h1 style="color: #FFB6D9; font-size: 3em; margin-bottom: 10px;">👋 Hi, I'm Sara Rosati</h1>
+<h3 style="color: #FF8C42; font-size: 1.5em; margin-top: 0;">Future Full Stack Developer | Code Institute</h3>
+
+<p style="font-size: 1.1em; color: #666; max-width: 600px; margin: 20px auto;">
+Driven and creative developer on a journey from <strong>Italian kitchens</strong> 👨‍🍳 to <strong>modern web experiences</strong> 💻. Passionate about building beautiful, functional interfaces with clean code.
+</p>
+
+</div>
+
+<div align="center" style="margin: 30px 0;">
+
+<!-- Badge animati personali -->
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28"/>
+<img alt="Learning" src="https://img.shields.io/badge/Forever-Learning-FFB6D9?style=flat-square" height="28"/>
+
+</div>
 
 <br/>
 
@@ -139,6 +154,41 @@ A comprehensive brain training web app with memory and logic games. My third and
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FFB6D9?style=for-the-badge&logoColor=black)](https://brainsync-0f71c4bb1b9c.herokuapp.com/)
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saretta1194/BrainSync)
+
+</td>
+</tr>
+</table>
+
+<!-- Row 3 -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🏠 [Heritage Housing](https://github.com/Saretta1194/Heritage-housing)
+
+A data-driven analysis project exploring housing dataset patterns and insights. Built with Python for statistical analysis and visualization of real estate trends.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saretta1194/Heritage-housing)
+
+</td>
+<td width="50%" align="center">
+
+### 🍔 [FoodHUB](https://github.com/Saretta1194/FoodHUB)
+
+A food delivery platform integrating multiple restaurants with order management and user authentication. A full-featured **full stack project** combining frontend and backend technologies.
+
+**Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saretta1194/FoodHUB)
 
 </td>
 </tr>
