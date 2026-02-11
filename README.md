@@ -1,27 +1,7 @@
 <div align="center">
 
-<!-- Custom Colorful Header -->
-<div align="center">
-
-<h1 style="color: #FFB6D9; font-size: 3em; margin-bottom: 10px;">👋 Hi, I'm Sara Rosati</h1>
-<h3 style="color: #FF8C42; font-size: 1.5em; margin-top: 0;">Future Full Stack Developer | Code Institute</h3>
-
-<p style="font-size: 1.1em; color: #666; max-width: 600px; margin: 20px auto;">
-Driven and creative developer on a journey from <strong>Italian kitchens</strong> 👨‍🍳 to <strong>modern web experiences</strong> 💻. Passionate about building beautiful, functional interfaces with clean code.
-</p>
-
-</div>
-
-<div align="center" style="margin: 30px 0;">
-
-<!-- Badge animati personali -->
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28"/>
-<img alt="Learning" src="https://img.shields.io/badge/Forever-Learning-FFB6D9?style=flat-square" height="28"/>
-
-</div>
+<!-- Animated Header - Rosa Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:FF8C42&height=200&section=header&text=Sara%20Rosati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Code%20Institute&descSize=18&descAlignY=55&descColor=ffffff"/>
 
 <br/>
 
@@ -59,8 +39,6 @@ Driven and creative developer on a journey from <strong>Italian kitchens</strong
 
 ## ✨ About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwSZaQ/giphy.gif" alt="Coding GIF"/>
-
 Ciao! I'm Sara — a developer with a unique journey 🚀
 
 After **10 years** in the culinary world, working as a **Chef de Partie** in Michelin-inspired kitchens across Switzerland and Italy, I decided to follow my passion for technology and start a new chapter as a **Full Stack Developer**.
@@ -74,7 +52,17 @@ Just like in cooking, I believe in creating beautiful and functional experiences
 - 🎨 Combining creativity with technical precision
 - 💪 Growth mindset: turning challenges into opportunities
 
-<br clear="right"/>
+---
+
+## 🏆 Hackathons & Competitions
+
+<div align="center">
+
+| Event | Date | Details |
+|:---:|:---:|:---|
+| 🌍 **Data Migration International** | July 2025 | Participant - Building innovative solutions for international data challenges |
+
+</div>
 
 ---
 
