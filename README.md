@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/sararosati14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sararosati)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.rosati@tiscali.it)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saretta1194)
 
@@ -59,6 +59,25 @@ I believe great software is clear, structured, and purposeful.
 
 # 🚀 Featured Projects
 
+## 🥗 HealthyBites
+Responsive landing page for a fictional healthy food app.
+Focused on layout structure, visual hierarchy, and mobile-first design.
+
+**Tech:** HTML • CSS
+🔗 Live Demo: https://saretta1194.github.io/HealthyBites/index.html
+📂 Code: https://github.com/saretta1194/HealthyBites
+
+---
+
+## 🎮 Dot Runner
+Interactive JavaScript game focused on logic implementation and animations.
+
+**Tech:** HTML • CSS • JavaScript
+🔗 Live Demo: https://saretta1194.github.io/Dot-Runner/
+📂 Code: https://github.com/saretta1194/Dot-Runner
+
+---
+
 ## 🧠 BrainSync
 Full Stack brain training web application with interactive games and backend data management.
 
@@ -81,15 +100,6 @@ Data analysis project exploring housing datasets and extracting insights.
 
 **Tech:** Python • Pandas • Jupyter
 📂 Code: https://github.com/Saretta1194/Heritage-housing
-
----
-
-## 🎮 Dot Runner
-Interactive JavaScript game focused on logic and animations.
-
-**Tech:** HTML • CSS • JavaScript
-🔗 Live Demo: https://saretta1194.github.io/Dot-Runner/
-📂 Code: https://github.com/saretta1194/Dot-Runner
 
 ---
 
